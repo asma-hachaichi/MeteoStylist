@@ -32,3 +32,9 @@ python MétéoStylist.py
 1. **experta**: This is a Python library for building expert systems.
 
 2. **tkinter**: Tkinter is actually a standard library for Python used for creating GUI applications. It comes pre-installed with Python.
+
+## Configuration
+No additional configuration is required to run MétéoStylist beyond the installation steps provided. However, users can adjust the sensitivity of the weather to outfit mapping by modifying the source code if desired.
+
+## License
+MétéoStylist is licensed under the MIT License. See the LICENSE file for more details.
